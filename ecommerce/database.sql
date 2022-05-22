@@ -66,8 +66,8 @@ INSERT INTO PRODUCTO (nompro,despro,prepro,estado,rutimapro)
 VALUES ('Los pilares de la tierra','Libro de Los pilares de la tierra','25.00',1,'LosPilaresDeLaTierra.jpg')
 
 INSERT INTO PRODUCTO (nompro,despro,prepro,estado,rutimapro)
-VALUES ('Harry Potter y la piedra filosofal','Libro de Harry Potter','30.00',1,'HarryPotterylapiedrafilosofal.jpg'),
+VALUES ('Harry Potter y la piedra filosofal','Libro de Harry Potter','30.00',1,'HarryPotterylapiedrafilosofal.jpg')
 
 INSERT INTO PRODUCTO (nompro,despro,prepro,estado,rutimapro)
 VALUES ('Harry Potter y el prisionero de azcaban','Libro de Harry Potter','30.00',1,'HarryPotteryElPrisioneroDeAzkaban.jpg'),
-('Harry Potter y la orden del fenix','Libro de Harry Potter','30.00',1,'HarryPotterylaOrdenDelFenix.jpg'),
+('Harry Potter y la orden del fenix','Libro de Harry Potter','30.00',1,'HarryPotterylaOrdenDelFenix.jpg')
